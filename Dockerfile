@@ -6,4 +6,4 @@ ENV CHROMA_SERVER_CORS_ALLOW_ORIGINS=*
 
 EXPOSE 8000
 
-CMD ["chromadb"]
+CMD ["chroma"]
